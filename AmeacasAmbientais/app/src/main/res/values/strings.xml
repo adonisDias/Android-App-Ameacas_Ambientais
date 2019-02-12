@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ameacas Ambientais</string>
+    <string name="lbl_descricao">Descrição</string>
+    <string name="lbl_endereco">Endereço</string>
+    <string name="lbl_bairro">Bairro</string>
+    <string name="lbl_potencial_risco">Potencial de Risco (1 a 10)</string>
+    <string name="lbl_listar_novo">Tod</string>
+    <string name="lbl_listar">Lis</string>
+    <string name="lbl_adicionar">Add</string>
+</resources>
